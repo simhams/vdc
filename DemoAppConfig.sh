@@ -8,7 +8,6 @@ sudo apt-get update
 sudo apt-get install nodejs -y
 sudo apt-get install npm -y
 
-
 # Clone Git repo for demo app
 sudo apt-get install git -y
 git clone https://github.com/araffe/nodejs-demoapp.git
