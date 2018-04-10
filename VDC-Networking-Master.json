@@ -64,7 +64,7 @@
         }
     },
     "variables": {
-        "baseURL": "https://github.com/simhams/vdc/master/",
+        "baseURL": "https://raw.githubusercontent.com/simhams/vdc/master/",
         "hubVnetTemplateURL": "[concat(variables('baseURL'), 'Hub-VNet.json')]",
         "spokeVnetTemplateURL": "[concat(variables('baseURL'), 'Spoke-VNet.json')]",
         "vnetPeeringHubTemplateURL": "[concat(variables('baseURL'), 'VNet-Peering-Hub.json')]",
